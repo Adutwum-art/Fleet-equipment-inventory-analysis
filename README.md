@@ -51,9 +51,8 @@ Three pivot table views were created to analyze the dataset from different persp
 #### 📊 Pivot Table 1: Department Summary
 - Equipment count summarized by Department  
 
-![Pivot Table 1](screenshots/pivot_table_1.png)
+![Pivot Table 1](https://github.com/Adutwum-art/Fleet-equipment-inventory-analysis/blob/068772c7ae36e704377d1a71320d54c2cc25bec9/Pivot%20Table%201.png)
 
----
 
 #### 📊 Pivot Table 2: Department → Equipment Class
 - Equipment Class grouped under each Department to show internal distribution  
