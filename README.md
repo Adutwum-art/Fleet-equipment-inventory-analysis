@@ -64,7 +64,7 @@ Three pivot table views were created to analyze the dataset from different persp
 #### 📊 Pivot Table 3: Equipment Class → Department
 - Equipment Class used as primary grouping with departments nested underneath  
 
-![Pivot Table 3](screenshots/pivot_table_3.png)
+![Pivot Table 3](https://github.com/Adutwum-art/Fleet-equipment-inventory-analysis/blob/7d1e9f5f4512ae324b50053b2e8023d3967c3013/Pivot%20Table%203.png)
 
 ---
 
