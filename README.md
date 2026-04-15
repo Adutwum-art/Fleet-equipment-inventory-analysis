@@ -31,7 +31,7 @@ The analysis demonstrates how raw operational data can be transformed into meani
 - Converted dataset into Excel table format for structured analysis  
 
 📸 **Excel Table Format**  
-![Excel Table Format](screenshots/excel_table_format.png)
+![Excel Table Format](https://github.com/Adutwum-art/Fleet-equipment-inventory-analysis/blob/5bdfe62d0c9764d10feda5201c2b0a3a8b9007d3/Excel%20Table%20Format.png)
 
 ---
 
